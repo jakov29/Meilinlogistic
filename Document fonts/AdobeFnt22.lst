@@ -1,0 +1,463 @@
+%!Adobe-FontList 1.22
+%Locale:0x419
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Invalid
+OutlineFileName:/Volumes/mac/Dropbox/_Dasha/Wells Shipping Agency/Буклет_1 Folder/Document fonts/AdobeFnt22.lst
+FileLength:11483
+FileModTime:647940292
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:Montserrat-ExtraBold
+FamilyName:Montserrat
+StyleName:ExtraBold
+MenuName:Montserrat ExtraBold
+StyleBits:0
+WeightClass:800
+WidthClass:5
+AngleClass:0
+FullName:Montserrat ExtraBold
+WritingScript:Roman
+OutlineFileName:/Volumes/mac/Dropbox/_Dasha/Wells Shipping Agency/Буклет_1 Folder/Document fonts/Montserrat-ExtraBold.ttf
+DataFormat:sfntData
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:262108
+FileModTime:628524070
+NameArray:0,Mac,4,Montserrat ExtraBold
+NameArray:0,Win,1,Montserrat ExtraBold
+NameArray:0,Win,16,Montserrat
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:Montserrat-Medium
+FamilyName:Montserrat
+StyleName:Medium
+MenuName:Montserrat Medium
+StyleBits:0
+WeightClass:500
+WidthClass:5
+AngleClass:0
+FullName:Montserrat Medium
+WritingScript:Roman
+OutlineFileName:/Volumes/mac/Dropbox/_Dasha/Wells Shipping Agency/Буклет_1 Folder/Document fonts/Montserrat-Medium.ttf
+DataFormat:sfntData
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:318868
+FileModTime:547159552
+NameArray:0,Mac,4,Montserrat Medium
+NameArray:0,Win,1,Montserrat Medium
+NameArray:0,Win,16,Montserrat
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:OpenSans-Bold
+FamilyName:Open Sans
+StyleName:Bold
+MenuName:Open Sans
+StyleBits:2
+WeightClass:700
+WidthClass:5
+AngleClass:0
+FullName:Open Sans Bold
+WritingScript:Roman
+OutlineFileName:/Volumes/mac/Dropbox/_Dasha/Wells Shipping Agency/Буклет_1 Folder/Document fonts/OpenSans-Bold.ttf
+DataFormat:sfntData
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:224592
+FileModTime:392033524
+NameArray:0,Mac,4,Open Sans Bold
+NameArray:0,Win,1,Open Sans
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:OpenSans-BoldItalic
+FamilyName:Open Sans
+StyleName:Bold Italic
+MenuName:Open Sans
+StyleBits:3
+WeightClass:700
+WidthClass:5
+AngleClass:1
+FullName:Open Sans Bold Italic
+WritingScript:Roman
+OutlineFileName:/Volumes/mac/Dropbox/_Dasha/Wells Shipping Agency/Буклет_1 Folder/Document fonts/OpenSans-BoldItalic.ttf
+DataFormat:sfntData
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:213292
+FileModTime:462259716
+NameArray:0,Mac,4,Open Sans Bold Italic
+NameArray:0,Win,1,Open Sans
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:OpenSans
+FamilyName:Open Sans
+StyleName:Regular
+MenuName:Open Sans
+StyleBits:0
+WeightClass:400
+WidthClass:5
+AngleClass:0
+FullName:Open Sans
+WritingScript:Roman
+OutlineFileName:/Volumes/mac/Dropbox/_Dasha/Wells Shipping Agency/Буклет_1 Folder/Document fonts/OpenSans-Regular.ttf
+DataFormat:sfntData
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:217360
+FileModTime:392033520
+NameArray:0,Mac,4,Open Sans
+NameArray:0,Win,1,Open Sans
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:Montserrat-Bold
+FamilyName:Montserrat
+StyleName:Bold
+MenuName:Montserrat
+StyleBits:2
+WeightClass:700
+WidthClass:5
+AngleClass:0
+FullName:Montserrat Bold
+WritingScript:Roman
+OutlineFileName:/Volumes/mac/Dropbox/_Dasha/Wells Shipping Agency/Буклет_1 Folder/Document fonts/ofont.ru_Montserrat-2.ttf
+DataFormat:sfntData
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:262608
+FileModTime:550158636
+NameArray:0,Mac,4,Montserrat Bold
+NameArray:0,Win,1,Montserrat
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:AvenirNext-Bold
+FamilyName:Avenir Next
+StyleName:Bold
+MenuName:Avenir Next
+StyleBits:2
+WeightClass:700
+WidthClass:5
+AngleClass:0
+FullName:Avenir Next Bold
+WritingScript:Roman
+OutlineFileName:/Volumes/mac/Dropbox/_Dasha/Wells Shipping Agency/Буклет_1 Folder/Document fonts/Avenir Next.ttc
+TTCOffset:72
+DataFormat:sfntData
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:4988788
+FileModTime:576381465
+NameArray:0,Mac,18,Avenir Next Bold
+NameArray:0,Mac,4,Avenir Next Bold
+NameArray:0,Win,1,Avenir Next
+NameArray:0,Win,16,Avenir Next
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:AvenirNext-BoldItalic
+FamilyName:Avenir Next
+StyleName:Bold Italic
+MenuName:Avenir Next
+StyleBits:0
+WeightClass:700
+WidthClass:5
+AngleClass:1
+FullName:Avenir Next Bold Italic
+WritingScript:Roman
+OutlineFileName:/Volumes/mac/Dropbox/_Dasha/Wells Shipping Agency/Буклет_1 Folder/Document fonts/Avenir Next.ttc
+TTCOffset:372
+DataFormat:sfntData
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:4988788
+FileModTime:576381465
+NameArray:0,Mac,18,Avenir Next Bold Italic
+NameArray:0,Mac,4,Avenir Next Bold Italic
+NameArray:0,Win,1,Avenir Next
+NameArray:0,Win,16,Avenir Next
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:AvenirNext-DemiBold
+FamilyName:Avenir Next
+StyleName:Demi Bold
+MenuName:Avenir Next Demi Bold
+StyleBits:2
+WeightClass:600
+WidthClass:5
+AngleClass:0
+FullName:Avenir Next Demi Bold
+WritingScript:Roman
+OutlineFileName:/Volumes/mac/Dropbox/_Dasha/Wells Shipping Agency/Буклет_1 Folder/Document fonts/Avenir Next.ttc
+TTCOffset:672
+DataFormat:sfntData
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:4988788
+FileModTime:576381465
+NameArray:0,Mac,18,Avenir Next Demi Bold
+NameArray:0,Mac,4,Avenir Next Demi Bold
+NameArray:0,Win,1,Avenir Next Demi Bold
+NameArray:0,Win,16,Avenir Next
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:AvenirNext-DemiBoldItalic
+FamilyName:Avenir Next
+StyleName:Demi Bold Italic
+MenuName:Avenir Next Demi Bold
+StyleBits:3
+WeightClass:600
+WidthClass:5
+AngleClass:0
+FullName:Avenir Next Demi Bold Italic
+WritingScript:Roman
+OutlineFileName:/Volumes/mac/Dropbox/_Dasha/Wells Shipping Agency/Буклет_1 Folder/Document fonts/Avenir Next.ttc
+TTCOffset:972
+DataFormat:sfntData
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:4988788
+FileModTime:576381465
+NameArray:0,Mac,18,Avenir Next Demi Bold Italic
+NameArray:0,Mac,4,Avenir Next Demi Bold Italic
+NameArray:0,Win,1,Avenir Next Demi Bold
+NameArray:0,Win,16,Avenir Next
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:AvenirNext-Heavy
+FamilyName:Avenir Next
+StyleName:Heavy
+MenuName:Avenir Next Heavy
+StyleBits:0
+WeightClass:900
+WidthClass:5
+AngleClass:0
+FullName:Avenir Next Heavy
+WritingScript:Roman
+OutlineFileName:/Volumes/mac/Dropbox/_Dasha/Wells Shipping Agency/Буклет_1 Folder/Document fonts/Avenir Next.ttc
+TTCOffset:2472
+DataFormat:sfntData
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:4988788
+FileModTime:576381465
+NameArray:0,Mac,18,Avenir Next Heavy
+NameArray:0,Mac,4,Avenir Next Heavy
+NameArray:0,Win,1,Avenir Next Heavy
+NameArray:0,Win,16,Avenir Next
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:AvenirNext-HeavyItalic
+FamilyName:Avenir Next
+StyleName:Heavy Italic
+MenuName:Avenir Next Heavy
+StyleBits:1
+WeightClass:900
+WidthClass:5
+AngleClass:1
+FullName:Avenir Next Heavy Italic
+WritingScript:Roman
+OutlineFileName:/Volumes/mac/Dropbox/_Dasha/Wells Shipping Agency/Буклет_1 Folder/Document fonts/Avenir Next.ttc
+TTCOffset:2772
+DataFormat:sfntData
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:4988788
+FileModTime:576381465
+NameArray:0,Mac,18,Avenir Next Heavy Italic
+NameArray:0,Mac,4,Avenir Next Heavy Italic
+NameArray:0,Win,1,Avenir Next Heavy
+NameArray:0,Win,16,Avenir Next
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:AvenirNext-Italic
+FamilyName:Avenir Next
+StyleName:Italic
+MenuName:Avenir Next
+StyleBits:1
+WeightClass:400
+WidthClass:5
+AngleClass:1
+FullName:Avenir Next Italic
+WritingScript:Roman
+OutlineFileName:/Volumes/mac/Dropbox/_Dasha/Wells Shipping Agency/Буклет_1 Folder/Document fonts/Avenir Next.ttc
+TTCOffset:1272
+DataFormat:sfntData
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:4988788
+FileModTime:576381465
+NameArray:0,Mac,18,Avenir Next Italic
+NameArray:0,Mac,4,Avenir Next Italic
+NameArray:0,Win,1,Avenir Next
+NameArray:0,Win,16,Avenir Next
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:AvenirNext-Medium
+FamilyName:Avenir Next
+StyleName:Medium
+MenuName:Avenir Next Medium
+StyleBits:0
+WeightClass:500
+WidthClass:5
+AngleClass:0
+FullName:Avenir Next Medium
+WritingScript:Roman
+OutlineFileName:/Volumes/mac/Dropbox/_Dasha/Wells Shipping Agency/Буклет_1 Folder/Document fonts/Avenir Next.ttc
+TTCOffset:1572
+DataFormat:sfntData
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:4988788
+FileModTime:576381465
+NameArray:0,Mac,18,Avenir Next Medium
+NameArray:0,Mac,4,Avenir Next Medium
+NameArray:0,Win,1,Avenir Next Medium
+NameArray:0,Win,16,Avenir Next
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:AvenirNext-MediumItalic
+FamilyName:Avenir Next
+StyleName:Medium Italic
+MenuName:Avenir Next Medium
+StyleBits:1
+WeightClass:500
+WidthClass:5
+AngleClass:0
+FullName:Avenir Next Medium Italic
+WritingScript:Roman
+OutlineFileName:/Volumes/mac/Dropbox/_Dasha/Wells Shipping Agency/Буклет_1 Folder/Document fonts/Avenir Next.ttc
+TTCOffset:1872
+DataFormat:sfntData
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:4988788
+FileModTime:576381465
+NameArray:0,Mac,18,Avenir Next Medium Italic
+NameArray:0,Mac,4,Avenir Next Medium Italic
+NameArray:0,Win,1,Avenir Next Medium
+NameArray:0,Win,16,Avenir Next
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:AvenirNext-Regular
+FamilyName:Avenir Next
+StyleName:Regular
+MenuName:Avenir Next
+StyleBits:0
+WeightClass:400
+WidthClass:5
+AngleClass:0
+FullName:Avenir Next Regular
+WritingScript:Roman
+OutlineFileName:/Volumes/mac/Dropbox/_Dasha/Wells Shipping Agency/Буклет_1 Folder/Document fonts/Avenir Next.ttc
+TTCOffset:2172
+DataFormat:sfntData
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:4988788
+FileModTime:576381465
+NameArray:0,Mac,18,Avenir Next Regular
+NameArray:0,Mac,4,Avenir Next Regular
+NameArray:0,Win,1,Avenir Next
+NameArray:0,Win,16,Avenir Next
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:AvenirNext-UltraLight
+FamilyName:Avenir Next
+StyleName:Ultra Light
+MenuName:Avenir Next Ultra Light
+StyleBits:0
+WeightClass:275
+WidthClass:5
+AngleClass:0
+FullName:AvenirNext-UltraLight
+WritingScript:Roman
+OutlineFileName:/Volumes/mac/Dropbox/_Dasha/Wells Shipping Agency/Буклет_1 Folder/Document fonts/Avenir Next.ttc
+TTCOffset:3072
+DataFormat:sfntData
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:4988788
+FileModTime:576381465
+NameArray:0,Mac,18,Avenir Next Ultra Light
+NameArray:0,Mac,4,Avenir Next Ultra Light
+NameArray:0,Win,1,Avenir Next Ultra Light
+NameArray:0,Win,16,Avenir Next
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:AvenirNext-UltraLightItalic
+FamilyName:Avenir Next
+StyleName:Ultra Light Italic
+MenuName:Avenir Next Ultra Light
+StyleBits:0
+WeightClass:275
+WidthClass:5
+AngleClass:1
+FullName:Avenir Next Ultra Light Italic
+WritingScript:Roman
+OutlineFileName:/Volumes/mac/Dropbox/_Dasha/Wells Shipping Agency/Буклет_1 Folder/Document fonts/Avenir Next.ttc
+TTCOffset:3372
+DataFormat:sfntData
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:4988788
+FileModTime:576381465
+NameArray:0,Mac,18,Avenir Next Ultra Light Italic
+NameArray:0,Mac,4,Avenir Next Ultra Light Italic
+NameArray:0,Win,1,Avenir Next Ultra Light
+NameArray:0,Win,16,Avenir Next
+%EndFont
+
