@@ -1,5 +1,10 @@
+@font-face {
+    font-family: AvenirNext; /* Гарнитура шрифта */
+    src: url(fonts/Avenir\ Next.ttc); /* Путь к файлу со шрифтом */
+   }
+
 body{
-    font-family: Roboto, sans-serif
+    font-family: AvenirNext, sans-serif
     }
 
     /*HEADER*/
@@ -13,7 +18,7 @@ header>.container>.headerline>.row>.header_text{
           margin: 0;
           padding: 0;
           font-size: 22px;
-         background:linear-gradient(45deg,#ff0707,#9c0d0d );
+         background:linear-gradient(45deg,#9c0d0d,#ff0707 );
          -webkit-background-clip: text;
          -webkit-text-fill-color: transparent;
 
@@ -43,7 +48,7 @@ header>.container>.headerline>.row>.header_text{
          color:#d30000;
          font-weight: bold;
          font-size: 19px;
-         background:linear-gradient(45deg,#ff0707,#9c0d0d );
+         background:linear-gradient(45deg,#9c0d0d,#ff0707 );
          -webkit-background-clip: text;
          -webkit-text-fill-color: transparent;
      }
@@ -64,6 +69,16 @@ header>.container>.headerline>.row>.header_text{
        margin-bottom: 50px;
 
      }
+
+     .breaker{
+        background:linear-gradient(45deg,#9c0d0d,#ff0707 );
+        width: 100%;
+        height: 30px;
+        margin-bottom: 30px;
+        margin-top: 0;
+        padding-top: 0;
+
+    }
 
      /* list 2 left side*/
 
@@ -125,13 +140,10 @@ header>.container>.headerline>.row>.header_text{
         font-size: 16px;
         padding-left: 20px;
 
-          background:linear-gradient(45deg,#ff0707,#9c0d0d );
+          background:linear-gradient(45deg,#9c0d0d,#ff0707 );
          -webkit-background-clip: text;
          -webkit-text-fill-color: transparent;
-
-
-
-       
+      
     }
 
 
@@ -147,9 +159,23 @@ header>.container>.headerline>.row>.header_text{
         justify-content: space-between;
     }
 
-    .List2{
+  .map{
+      padding-bottom: 20px;
+
+      
+  }
+
+  .contact{
+      text-align: left;
+      color:#524f4e;
+      padding-left: 20px;
+      line-height:30px;
+      padding-bottom: 10px;
+  }
+
+   /* .List2{
         padding-bottom: 180px;
-    }
+    } */
 
     /* Footer*/
     .footer{
@@ -164,10 +190,10 @@ filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#a90329', end
         color: white;
         font-size: 15px;
         font-weight: bold;
-        position: fixed;
-        bottom: 1px;
+       /* position: fixed; 
+        bottom: 1px;*/
         width: 100%;
-        box-shadow: 0px 3px 16px rgba(38, 38, 38, 0.16);
+        
     }
 
   .num {
